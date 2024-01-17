@@ -1,0 +1,77 @@
+
+.heading{
+  font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  /*color: #202aee;*/
+  color: #4408f7;
+}
+
+body{
+    background-color:#dbfc6f;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.BoysList{
+  list-style: none;
+}
+
+.image1{
+  padding: 20px;
+}
+
+.image2{
+  padding: 20px;
+}
+
+.image3{
+  padding: 20px;
+}
+
+.paragraph{
+  font-size: larger;
+  font-weight: 600;
+}
+
+h3{
+  font-size: larger;
+  font-weight: 600;
+}
+
+.ShTermPara{
+  font-size:xx-large;
+  font-weight: 900;
+}
+
+#WinnerList{
+  display: none;
+}
+
+#ShortTerm{
+  display: block;
+}
+
+.winnerDeclaration{
+  display: none;
+}
+
+.RefreshContainer{
+  color: #f94506;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.winnerDeclaration{
+  color: #276253;
+  font-size: larger;
+  font-weight: 600;
+}
